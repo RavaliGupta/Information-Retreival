@@ -1,1 +1,2 @@
-
+Two different analyzers are used for indexing the files. Two types of analyzers used in this project are Standard analyzer and 
+English Analyzer. Certain fields are boosted with certain value to increase the performance of search engine.
